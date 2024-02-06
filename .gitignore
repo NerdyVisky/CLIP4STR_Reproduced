@@ -1,0 +1,14 @@
+
+# Dataset
+/output/*.ckpt
+/output/*.pt
+/output/*.tar.pt
+
+/pretrained/*/*.ckpt
+/pretrained/*/*.pt
+/pretrained/*/*.tar.pt
+
+#Environment Folders
+.vscode/
+.conda/
+.checkpoints/

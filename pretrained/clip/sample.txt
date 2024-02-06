@@ -1,0 +1,3 @@
+To store clip checkpoint
+Links are available here:
+https://github.com/openai/CLIP

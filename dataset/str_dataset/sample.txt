@@ -1,0 +1,2 @@
+Download the dataset by following instructions given in https://github.com/VamosC/CLIP4STR
+and https://github.com/baudm/parseq
